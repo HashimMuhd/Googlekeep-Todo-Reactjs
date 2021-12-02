@@ -87,3 +87,35 @@ form button{
     white-space: pre-wrap;
     word-wrap: break-word;
 }
+.del{
+    padding: 8px 15px;
+    letter-spacing: 1px;
+    font-size: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background: rgb(241, 241, 43);
+     color: rgb(66, 65, 65);
+  }
+  .edit{
+    padding: 8px 15px;
+    letter-spacing: 1px;
+    font-size: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background: rgb(241, 106, 43);
+     color: rgb(66, 65, 65);
+  }
+  .del:hover{
+    background: darkgoldenrod;
+    transition: all 0.4s;
+    color: #fff;
+  }
+  .edit:hover{
+    background: rgb(145, 2, 2);
+    transition: all 0.4s;
+    color: #fff;
+  }

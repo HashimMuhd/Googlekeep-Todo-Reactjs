@@ -98,7 +98,7 @@ form button{
     background: rgb(241, 241, 43);
      color: rgb(66, 65, 65);
   }
-  .edit{
+  /* .edit{
     padding: 8px 15px;
     letter-spacing: 1px;
     font-size: 15px;
@@ -108,14 +108,14 @@ form button{
     border-radius: 5px;
     background: rgb(241, 106, 43);
      color: rgb(66, 65, 65);
-  }
+  } */
   .del:hover{
     background: darkgoldenrod;
     transition: all 0.4s;
     color: #fff;
   }
-  .edit:hover{
+  /* .edit:hover{
     background: rgb(145, 2, 2);
     transition: all 0.4s;
     color: #fff;
-  }
+  } */
